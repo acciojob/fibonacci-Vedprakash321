@@ -7,7 +7,6 @@ function fibonacci(num) {
 	for(let i=1;i<=num;i++){
 	    c=a+b;
 		
-		console.log(c);
 		a=b;
 		b=c;
 		
